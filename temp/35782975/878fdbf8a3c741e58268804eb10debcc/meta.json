@@ -1,0 +1,44 @@
+{
+  "job_id": "d8727495f2744710af2470abb2c6dc13",
+  "telegram_user_id": 35782975,
+  "request_id": "878fdbf8a3c741e58268804eb10debcc",
+  "created_at": "2026-05-12T12:01:03.437132+00:00",
+  "expires_at": "2026-05-13T12:00:54.810149+00:00",
+  "user_id": 35782975,
+  "original_filename": "downloads",
+  "total_size": 68215965,
+  "archive_size": 67680681,
+  "parts_count": 1,
+  "files": [
+    {
+      "index": 1,
+      "filename": "job_d8727495__user_35782975.zip",
+      "source_filename": "job_d8727495__user_35782975.zip",
+      "size": 67680681,
+      "sha256": "138dff5c909be3957fd25878ac346f431dcdfbfc436c61501d06ba3d272f9766",
+      "raw_url": "https://raw.githubusercontent.com/parsa-sas/parsa/storage-35782975-878fdbf8/temp/35782975/878fdbf8a3c741e58268804eb10debcc/job_d8727495__user_35782975.zip"
+    }
+  ],
+  "repo_owner": "parsa-sas",
+  "repo_name": "parsa",
+  "branch": "storage-35782975-878fdbf8",
+  "remote_path": "temp/35782975/878fdbf8a3c741e58268804eb10debcc",
+  "parts": [
+    {
+      "index": 1,
+      "filename": "job_d8727495__user_35782975.zip",
+      "source_filename": "job_d8727495__user_35782975.zip",
+      "size": 67680681,
+      "sha256": "138dff5c909be3957fd25878ac346f431dcdfbfc436c61501d06ba3d272f9766",
+      "raw_url": "https://raw.githubusercontent.com/parsa-sas/parsa/storage-35782975-878fdbf8/temp/35782975/878fdbf8a3c741e58268804eb10debcc/job_d8727495__user_35782975.zip"
+    }
+  ],
+  "part_size_limit_mb": 95,
+  "archive_filename": "job_d8727495__user_35782975.zip",
+  "archive_format": "zip",
+  "encrypted": true,
+  "encryption": "AES256",
+  "password_source": "panel_password",
+  "split_method": "standard_zip_volumes",
+  "sha256": ""
+}
