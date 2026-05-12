@@ -1,0 +1,92 @@
+{
+  "job_id": "f19902ca2ecf4e46bcbd149869246fab",
+  "telegram_user_id": 35782975,
+  "request_id": "70455ce4f5c649909d696e19ceffa7a7",
+  "created_at": "2026-05-12T15:52:28.935347+00:00",
+  "expires_at": "2026-05-13T15:51:56.867575+00:00",
+  "user_id": 35782975,
+  "original_filename": "downloads",
+  "total_size": 330945749,
+  "archive_size": 329151653,
+  "parts_count": 4,
+  "files": [
+    {
+      "index": 1,
+      "filename": "job_f19902ca__user_35782975.z01",
+      "source_filename": "job_f19902ca__user_35782975.z01",
+      "size": 99614720,
+      "sha256": "6656a50bc9ad23c794c706c50d0abe8de52295bf7e0017146ebfeeb4c2f816b5",
+      "raw_url": "https://raw.githubusercontent.com/parsa-sas/parsa/storage-35782975-70455ce4/temp/35782975/70455ce4f5c649909d696e19ceffa7a7/job_f19902ca__user_35782975.z01"
+    },
+    {
+      "index": 2,
+      "filename": "job_f19902ca__user_35782975.z02",
+      "source_filename": "job_f19902ca__user_35782975.z02",
+      "size": 99614720,
+      "sha256": "dd4f30d38bb1b9691114f5116531057e3d33a3bdd48b8b2c4fe222979ffa04cf",
+      "raw_url": "https://raw.githubusercontent.com/parsa-sas/parsa/storage-35782975-70455ce4/temp/35782975/70455ce4f5c649909d696e19ceffa7a7/job_f19902ca__user_35782975.z02"
+    },
+    {
+      "index": 3,
+      "filename": "job_f19902ca__user_35782975.z03",
+      "source_filename": "job_f19902ca__user_35782975.z03",
+      "size": 99614720,
+      "sha256": "46a82f3f4f02b5781b36816ec5f34840264839f47d9c53008ac9b1ccd7e2d1cf",
+      "raw_url": "https://raw.githubusercontent.com/parsa-sas/parsa/storage-35782975-70455ce4/temp/35782975/70455ce4f5c649909d696e19ceffa7a7/job_f19902ca__user_35782975.z03"
+    },
+    {
+      "index": 4,
+      "filename": "job_f19902ca__user_35782975.zip",
+      "source_filename": "job_f19902ca__user_35782975.zip",
+      "size": 30307493,
+      "sha256": "4cc15df1c1624c473031ea4c582fe40c66ff7dc8d04b56593c6b6efada4e184b",
+      "raw_url": "https://raw.githubusercontent.com/parsa-sas/parsa/storage-35782975-70455ce4/temp/35782975/70455ce4f5c649909d696e19ceffa7a7/job_f19902ca__user_35782975.zip"
+    }
+  ],
+  "repo_owner": "parsa-sas",
+  "repo_name": "parsa",
+  "branch": "storage-35782975-70455ce4",
+  "remote_path": "temp/35782975/70455ce4f5c649909d696e19ceffa7a7",
+  "parts": [
+    {
+      "index": 1,
+      "filename": "job_f19902ca__user_35782975.z01",
+      "source_filename": "job_f19902ca__user_35782975.z01",
+      "size": 99614720,
+      "sha256": "6656a50bc9ad23c794c706c50d0abe8de52295bf7e0017146ebfeeb4c2f816b5",
+      "raw_url": "https://raw.githubusercontent.com/parsa-sas/parsa/storage-35782975-70455ce4/temp/35782975/70455ce4f5c649909d696e19ceffa7a7/job_f19902ca__user_35782975.z01"
+    },
+    {
+      "index": 2,
+      "filename": "job_f19902ca__user_35782975.z02",
+      "source_filename": "job_f19902ca__user_35782975.z02",
+      "size": 99614720,
+      "sha256": "dd4f30d38bb1b9691114f5116531057e3d33a3bdd48b8b2c4fe222979ffa04cf",
+      "raw_url": "https://raw.githubusercontent.com/parsa-sas/parsa/storage-35782975-70455ce4/temp/35782975/70455ce4f5c649909d696e19ceffa7a7/job_f19902ca__user_35782975.z02"
+    },
+    {
+      "index": 3,
+      "filename": "job_f19902ca__user_35782975.z03",
+      "source_filename": "job_f19902ca__user_35782975.z03",
+      "size": 99614720,
+      "sha256": "46a82f3f4f02b5781b36816ec5f34840264839f47d9c53008ac9b1ccd7e2d1cf",
+      "raw_url": "https://raw.githubusercontent.com/parsa-sas/parsa/storage-35782975-70455ce4/temp/35782975/70455ce4f5c649909d696e19ceffa7a7/job_f19902ca__user_35782975.z03"
+    },
+    {
+      "index": 4,
+      "filename": "job_f19902ca__user_35782975.zip",
+      "source_filename": "job_f19902ca__user_35782975.zip",
+      "size": 30307493,
+      "sha256": "4cc15df1c1624c473031ea4c582fe40c66ff7dc8d04b56593c6b6efada4e184b",
+      "raw_url": "https://raw.githubusercontent.com/parsa-sas/parsa/storage-35782975-70455ce4/temp/35782975/70455ce4f5c649909d696e19ceffa7a7/job_f19902ca__user_35782975.zip"
+    }
+  ],
+  "part_size_limit_mb": 95,
+  "archive_filename": "job_f19902ca__user_35782975.zip",
+  "archive_format": "zip",
+  "encrypted": true,
+  "encryption": "AES256",
+  "password_source": "panel_password",
+  "split_method": "standard_zip_volumes",
+  "sha256": ""
+}
