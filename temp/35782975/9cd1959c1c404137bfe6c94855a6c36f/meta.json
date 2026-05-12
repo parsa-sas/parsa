@@ -1,0 +1,108 @@
+{
+  "job_id": "7867e2c7f19a48d6b657530058cf675a",
+  "telegram_user_id": 35782975,
+  "request_id": "9cd1959c1c404137bfe6c94855a6c36f",
+  "created_at": "2026-05-12T15:57:46.412537+00:00",
+  "expires_at": "2026-05-13T15:57:06.198388+00:00",
+  "user_id": 35782975,
+  "original_filename": "1_Israeli_vs_20_Pro-Palestine_Activists_ft._Rudy_Rochman_Surrounded [risOOuIDXHY].mp4",
+  "total_size": 436037050,
+  "archive_size": 433946273,
+  "parts_count": 5,
+  "files": [
+    {
+      "index": 1,
+      "filename": "job_7867e2c7__user_35782975.z01",
+      "source_filename": "job_7867e2c7__user_35782975.z01",
+      "size": 99614720,
+      "sha256": "323259652e21267aabbf9bb8d68b67315b7b0ccbacdde60a391101317e320da1",
+      "raw_url": "https://raw.githubusercontent.com/parsa-sas/parsa/storage-35782975-9cd1959c/temp/35782975/9cd1959c1c404137bfe6c94855a6c36f/job_7867e2c7__user_35782975.z01"
+    },
+    {
+      "index": 2,
+      "filename": "job_7867e2c7__user_35782975.z02",
+      "source_filename": "job_7867e2c7__user_35782975.z02",
+      "size": 99614720,
+      "sha256": "6fed30163317f8260305a03786e539a2ba2b8ffe1be22f0f823a054c0d4d1df0",
+      "raw_url": "https://raw.githubusercontent.com/parsa-sas/parsa/storage-35782975-9cd1959c/temp/35782975/9cd1959c1c404137bfe6c94855a6c36f/job_7867e2c7__user_35782975.z02"
+    },
+    {
+      "index": 3,
+      "filename": "job_7867e2c7__user_35782975.z03",
+      "source_filename": "job_7867e2c7__user_35782975.z03",
+      "size": 99614720,
+      "sha256": "984a32822d36352a2276d38db53c664b8d9a6a299ed6d0e2b09d5d0e68e3283c",
+      "raw_url": "https://raw.githubusercontent.com/parsa-sas/parsa/storage-35782975-9cd1959c/temp/35782975/9cd1959c1c404137bfe6c94855a6c36f/job_7867e2c7__user_35782975.z03"
+    },
+    {
+      "index": 4,
+      "filename": "job_7867e2c7__user_35782975.z04",
+      "source_filename": "job_7867e2c7__user_35782975.z04",
+      "size": 99614720,
+      "sha256": "f202ea76df1a23995cd500260d18457103c1e7cc853261005f6168990b0d6fde",
+      "raw_url": "https://raw.githubusercontent.com/parsa-sas/parsa/storage-35782975-9cd1959c/temp/35782975/9cd1959c1c404137bfe6c94855a6c36f/job_7867e2c7__user_35782975.z04"
+    },
+    {
+      "index": 5,
+      "filename": "job_7867e2c7__user_35782975.zip",
+      "source_filename": "job_7867e2c7__user_35782975.zip",
+      "size": 35487393,
+      "sha256": "b1cc52fc6fee9a089b75f2a03bd6b84f3c8ce4f5e1fe664012335eedcaf314ec",
+      "raw_url": "https://raw.githubusercontent.com/parsa-sas/parsa/storage-35782975-9cd1959c/temp/35782975/9cd1959c1c404137bfe6c94855a6c36f/job_7867e2c7__user_35782975.zip"
+    }
+  ],
+  "repo_owner": "parsa-sas",
+  "repo_name": "parsa",
+  "branch": "storage-35782975-9cd1959c",
+  "remote_path": "temp/35782975/9cd1959c1c404137bfe6c94855a6c36f",
+  "parts": [
+    {
+      "index": 1,
+      "filename": "job_7867e2c7__user_35782975.z01",
+      "source_filename": "job_7867e2c7__user_35782975.z01",
+      "size": 99614720,
+      "sha256": "323259652e21267aabbf9bb8d68b67315b7b0ccbacdde60a391101317e320da1",
+      "raw_url": "https://raw.githubusercontent.com/parsa-sas/parsa/storage-35782975-9cd1959c/temp/35782975/9cd1959c1c404137bfe6c94855a6c36f/job_7867e2c7__user_35782975.z01"
+    },
+    {
+      "index": 2,
+      "filename": "job_7867e2c7__user_35782975.z02",
+      "source_filename": "job_7867e2c7__user_35782975.z02",
+      "size": 99614720,
+      "sha256": "6fed30163317f8260305a03786e539a2ba2b8ffe1be22f0f823a054c0d4d1df0",
+      "raw_url": "https://raw.githubusercontent.com/parsa-sas/parsa/storage-35782975-9cd1959c/temp/35782975/9cd1959c1c404137bfe6c94855a6c36f/job_7867e2c7__user_35782975.z02"
+    },
+    {
+      "index": 3,
+      "filename": "job_7867e2c7__user_35782975.z03",
+      "source_filename": "job_7867e2c7__user_35782975.z03",
+      "size": 99614720,
+      "sha256": "984a32822d36352a2276d38db53c664b8d9a6a299ed6d0e2b09d5d0e68e3283c",
+      "raw_url": "https://raw.githubusercontent.com/parsa-sas/parsa/storage-35782975-9cd1959c/temp/35782975/9cd1959c1c404137bfe6c94855a6c36f/job_7867e2c7__user_35782975.z03"
+    },
+    {
+      "index": 4,
+      "filename": "job_7867e2c7__user_35782975.z04",
+      "source_filename": "job_7867e2c7__user_35782975.z04",
+      "size": 99614720,
+      "sha256": "f202ea76df1a23995cd500260d18457103c1e7cc853261005f6168990b0d6fde",
+      "raw_url": "https://raw.githubusercontent.com/parsa-sas/parsa/storage-35782975-9cd1959c/temp/35782975/9cd1959c1c404137bfe6c94855a6c36f/job_7867e2c7__user_35782975.z04"
+    },
+    {
+      "index": 5,
+      "filename": "job_7867e2c7__user_35782975.zip",
+      "source_filename": "job_7867e2c7__user_35782975.zip",
+      "size": 35487393,
+      "sha256": "b1cc52fc6fee9a089b75f2a03bd6b84f3c8ce4f5e1fe664012335eedcaf314ec",
+      "raw_url": "https://raw.githubusercontent.com/parsa-sas/parsa/storage-35782975-9cd1959c/temp/35782975/9cd1959c1c404137bfe6c94855a6c36f/job_7867e2c7__user_35782975.zip"
+    }
+  ],
+  "part_size_limit_mb": 95,
+  "archive_filename": "job_7867e2c7__user_35782975.zip",
+  "archive_format": "zip",
+  "encrypted": true,
+  "encryption": "AES256",
+  "password_source": "panel_password",
+  "split_method": "standard_zip_volumes",
+  "sha256": ""
+}
