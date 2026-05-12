@@ -1,0 +1,44 @@
+{
+  "job_id": "7ce53a9fa49b4d72a0724ca2e3fd24f2",
+  "telegram_user_id": 35782975,
+  "request_id": "b5110cc131524c0289087dcb72956db6",
+  "created_at": "2026-05-12T15:49:49.347953+00:00",
+  "expires_at": "2026-05-13T15:49:38.165775+00:00",
+  "user_id": 35782975,
+  "original_filename": "The_Quiet_Enslavement_of_Everyone [adUTsTkjnmc].mp4",
+  "total_size": 94807786,
+  "archive_size": 93832729,
+  "parts_count": 1,
+  "files": [
+    {
+      "index": 1,
+      "filename": "job_7ce53a9f__user_35782975.zip",
+      "source_filename": "job_7ce53a9f__user_35782975.zip",
+      "size": 93832729,
+      "sha256": "1fa418fe105c8497d3d98dc99337369f5372a660b125e555137c2684aa6e7369",
+      "raw_url": "https://raw.githubusercontent.com/parsa-sas/parsa/storage-35782975-b5110cc1/temp/35782975/b5110cc131524c0289087dcb72956db6/job_7ce53a9f__user_35782975.zip"
+    }
+  ],
+  "repo_owner": "parsa-sas",
+  "repo_name": "parsa",
+  "branch": "storage-35782975-b5110cc1",
+  "remote_path": "temp/35782975/b5110cc131524c0289087dcb72956db6",
+  "parts": [
+    {
+      "index": 1,
+      "filename": "job_7ce53a9f__user_35782975.zip",
+      "source_filename": "job_7ce53a9f__user_35782975.zip",
+      "size": 93832729,
+      "sha256": "1fa418fe105c8497d3d98dc99337369f5372a660b125e555137c2684aa6e7369",
+      "raw_url": "https://raw.githubusercontent.com/parsa-sas/parsa/storage-35782975-b5110cc1/temp/35782975/b5110cc131524c0289087dcb72956db6/job_7ce53a9f__user_35782975.zip"
+    }
+  ],
+  "part_size_limit_mb": 95,
+  "archive_filename": "job_7ce53a9f__user_35782975.zip",
+  "archive_format": "zip",
+  "encrypted": true,
+  "encryption": "AES256",
+  "password_source": "panel_password",
+  "split_method": "standard_zip_volumes",
+  "sha256": ""
+}
