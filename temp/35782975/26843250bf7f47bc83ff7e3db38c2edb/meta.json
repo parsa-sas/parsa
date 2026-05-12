@@ -1,0 +1,44 @@
+{
+  "job_id": "dceab9112d104247a2933126b8e06cde",
+  "telegram_user_id": 35782975,
+  "request_id": "26843250bf7f47bc83ff7e3db38c2edb",
+  "created_at": "2026-05-12T12:03:50.543306+00:00",
+  "expires_at": "2026-05-13T12:03:44.570946+00:00",
+  "user_id": 35782975,
+  "original_filename": "I_Guess_We_Can_t_Go_To_France_Anymore... [j97CBTb4oOI].mp4",
+  "total_size": 27314329,
+  "archive_size": 27229895,
+  "parts_count": 1,
+  "files": [
+    {
+      "index": 1,
+      "filename": "job_dceab911__user_35782975.zip",
+      "source_filename": "job_dceab911__user_35782975.zip",
+      "size": 27229895,
+      "sha256": "ac887e613537a9d3cb39b0e9877950d2c7253f8f9f959a99d833a355fac57b9a",
+      "raw_url": "https://raw.githubusercontent.com/parsa-sas/parsa/storage-35782975-26843250/temp/35782975/26843250bf7f47bc83ff7e3db38c2edb/job_dceab911__user_35782975.zip"
+    }
+  ],
+  "repo_owner": "parsa-sas",
+  "repo_name": "parsa",
+  "branch": "storage-35782975-26843250",
+  "remote_path": "temp/35782975/26843250bf7f47bc83ff7e3db38c2edb",
+  "parts": [
+    {
+      "index": 1,
+      "filename": "job_dceab911__user_35782975.zip",
+      "source_filename": "job_dceab911__user_35782975.zip",
+      "size": 27229895,
+      "sha256": "ac887e613537a9d3cb39b0e9877950d2c7253f8f9f959a99d833a355fac57b9a",
+      "raw_url": "https://raw.githubusercontent.com/parsa-sas/parsa/storage-35782975-26843250/temp/35782975/26843250bf7f47bc83ff7e3db38c2edb/job_dceab911__user_35782975.zip"
+    }
+  ],
+  "part_size_limit_mb": 95,
+  "archive_filename": "job_dceab911__user_35782975.zip",
+  "archive_format": "zip",
+  "encrypted": true,
+  "encryption": "AES256",
+  "password_source": "panel_password",
+  "split_method": "standard_zip_volumes",
+  "sha256": ""
+}
