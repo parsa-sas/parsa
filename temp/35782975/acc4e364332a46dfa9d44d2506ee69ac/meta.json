@@ -1,0 +1,44 @@
+{
+  "job_id": "4f37b34f04274d849de4a2c45b810aeb",
+  "telegram_user_id": 35782975,
+  "request_id": "acc4e364332a46dfa9d44d2506ee69ac",
+  "created_at": "2026-05-24T20:06:57.635524+00:00",
+  "expires_at": "2026-05-25T20:06:48.900835+00:00",
+  "user_id": 35782975,
+  "original_filename": "No_Bra_How_to_Remove_Underwear_in_a_Floral_Sheer_Dress_2024_4K [0TtDOWUJeLI].mp4",
+  "total_size": 21114049,
+  "archive_size": 21088249,
+  "parts_count": 1,
+  "files": [
+    {
+      "index": 1,
+      "filename": "job_4f37b34f__user_35782975.zip",
+      "source_filename": "job_4f37b34f__user_35782975.zip",
+      "size": 21088249,
+      "sha256": "469c32c65ba93f37bc9b4ff575f391e4ec708f3632ebce1cc53f123bd0f9bd47",
+      "raw_url": "https://raw.githubusercontent.com/parsa-sas/parsa/storage-35782975-acc4e364/temp/35782975/acc4e364332a46dfa9d44d2506ee69ac/job_4f37b34f__user_35782975.zip"
+    }
+  ],
+  "repo_owner": "parsa-sas",
+  "repo_name": "parsa",
+  "branch": "storage-35782975-acc4e364",
+  "remote_path": "temp/35782975/acc4e364332a46dfa9d44d2506ee69ac",
+  "parts": [
+    {
+      "index": 1,
+      "filename": "job_4f37b34f__user_35782975.zip",
+      "source_filename": "job_4f37b34f__user_35782975.zip",
+      "size": 21088249,
+      "sha256": "469c32c65ba93f37bc9b4ff575f391e4ec708f3632ebce1cc53f123bd0f9bd47",
+      "raw_url": "https://raw.githubusercontent.com/parsa-sas/parsa/storage-35782975-acc4e364/temp/35782975/acc4e364332a46dfa9d44d2506ee69ac/job_4f37b34f__user_35782975.zip"
+    }
+  ],
+  "part_size_limit_mb": 95,
+  "archive_filename": "job_4f37b34f__user_35782975.zip",
+  "archive_format": "zip",
+  "encrypted": true,
+  "encryption": "AES256",
+  "password_source": "panel_password",
+  "split_method": "standard_zip_volumes",
+  "sha256": "cc4c2ef9e8da680c87f624606d13e5b3bc8c89986c9599847345679c33443d6b"
+}
